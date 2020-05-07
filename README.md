@@ -31,3 +31,15 @@ todolist 1. 각자 word2vec(https://wikidocs.net/22660)의 코드 공부 및 자
 ## 19.11.15.(금)
 
 - 프로젝트에 기능이 많아지고, 소스코드 및 여러 버전이 생겨나기 시작하고 있어서, 효과적인 관리를 위하여 github 도입 고려 중.
+
+
+# Update Season (프로젝트 복기)
+
+## 20.03.02
+- job코리아, jtbc뉴스 크롤링 py script 업로드 (https://github.com/dbsgh3344/AI-Coverletter-Assistant/blob/fromzero/Utils/crawling.py)
+
+## 20.05.06
+- multi labeling에 활용될 train label 전처리 및 시각화 패키지 업로드 (https://github.com/dbsgh3344/AI-Coverletter-Assistant/blob/fromzero/Utils/transform_label.py)
+
+## 20.05.07
+- multi labeling ipynb 업로드 (https://github.com/dbsgh3344/AI-Coverletter-Assistant/blob/fromzero/Models/multi_label_classification.ipynb)
